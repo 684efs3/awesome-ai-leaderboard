@@ -282,6 +282,7 @@ Also, a leaderboard should be included if only:
 | [MT-Bench-101](https://github.com/mtbench101/mt-bench-101?tab=readme-ov-file#leaderboard) | MT-Bench-101 is a fine-grained benchmark for evaluating LLMs in multi-turn dialogues. |
 | [MY Malay LLM Leaderboard](https://huggingface.co/spaces/mesolitica/malay-llm-leaderboard) | MY Malay LLM Leaderboard aims to track, rank, and evaluate open LLMs on Malay tasks. |
 | [NoCha](https://novelchallenge.github.io) | NoCha is a benchmark to evaluate how well long-context language models can verify claims written about fictional books. |
+| [Nonobench](https://www.nonobench.com) | Nonobench is an open-source benchmark of how well LLMs solve nonogram puzzles, from 5x5 to 20x20. |
 | [NPHardEval](https://huggingface.co/spaces/NPHardEval/NPHardEval-leaderboard) | NPHardEval is a benchmark to evaluate the reasoning abilities of LLMs through the lens of computational complexity classes. |
 | [Occiglot Euro LLM Leaderboard](https://huggingface.co/spaces/occiglot/euro-llm-leaderboard) | Occiglot Euro LLM Leaderboard compares LLMs in four main languages from the Okapi benchmark and Belebele (French, Italian, German, Spanish and Dutch). |
 | [OlympiadBench](https://github.com/OpenBMB/OlympiadBench?tab=readme-ov-file#leaderboard) | OlympiadBench is a bilingual multimodal scientific benchmark featuring 8,476 Olympiad-level mathematics and physics problems with expert-level step-by-step reasoning annotations. |
