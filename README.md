@@ -10,7 +10,6 @@
     <a href="https://arxiv.org/pdf/2407.04065">
         <img src="https://img.shields.io/badge/Arxiv-2407.04065-red" height="20"/>
     </a>
-| [ModelBenchmark](https://modelbenchmark.io) | Ranks 202 AI models with one composite score from 16 public benchmarks, and lists prices, context windows, and release dates for 2,406 models across 297 hosts. |
 </div>
 
 **Awesome AI Leaderboard** is a curated list of awesome AI leaderboards, along with various development tools and evaluation organizations according to [our recent survey](https://arxiv.org/abs/2407.04065):
@@ -130,6 +129,7 @@ Also, a leaderboard should be included if only:
 | [LLM Stats](https://llm-stats.com) | LLM Stats, the most comprehensive LLM leaderboard, benchmarks and compares API models using daily-updated, open-source community data on capability, price, speed, and context length. |
 | [LLM-Perf Leaderboard](https://huggingface.co/spaces/optimum/llm-perf-leaderboard) | LLM-Perf Leaderboard aims to benchmark the performance of LLMs with different hardware, backends, and optimizations. |
 | [LLMPerf](https://github.com/ray-project/llmperf-leaderboard) | LLMPerf is a tool to evaluate the performance of LLMs using both load and correctness tests. |
+| [ModelBenchmark](https://modelbenchmark.io) | Ranks 202 AI models with one composite score from 16 public benchmarks, and lists prices, context windows, and release dates for 2,406 models across 297 hosts. |
 | [MSNP Leaderboard](https://huggingface.co/spaces/evilfreelancer/msnp-leaderboard) | MSNP Leaderboard tracks and evaluates quantized GGUF models' performance on various GPU and CPU combinations using single-node setups via Ollama. |
 | [oobabooga](https://oobabooga.github.io/benchmark.html) | Oobabooga is a benchmark to perform repeatable performance tests of LLMs with the oobabooga web UI. |
 | [PinchBench](https://pinchbench.com) | PinchBench is a benchmark for evaluating and comparing AI agents in the OpenClaw environment across diverse tasks. |
